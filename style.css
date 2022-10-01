@@ -1,0 +1,64 @@
+
+.card_width{
+    width: auto;
+    height: auto;
+}
+.main_div_css{
+    display: flexbox ;
+    height:100%;
+    width: 100%
+}
+
+.card-title{
+    color: pink;
+}
+
+.card-img-top{
+    height: 300px;
+    width: auto;
+}
+
+.card-img-top{
+    height: 300px;
+    width: 390px
+}
+.para{
+    text-align: justify;
+    width: 350px;
+    height: 150px;
+    overflow: hidden;
+}
+.card-title{
+    background-color:gray;
+    text-align: center;
+}
+/* .card-title_name{
+    
+} */
+.topheadclass{
+    font-family: 'Gruppo', cursive;
+    text-align: center;
+    font-size: 4.3rem;
+    padding: 20px;
+    border: 5px
+} ;
+
+.para1{
+    text-align: justify;
+    width: 350px;
+    height: 150px;
+    overflow: hidden;
+}
+.buttonload {
+    background-color: #04AA6D; /* Green background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 24px; /* Some padding */
+    font-size: 16px; /* Set a font-size */
+  }
+  
+  /* Add a right margin to each icon */
+  .fa {
+    margin-left: -12px;
+    margin-right: 8px;
+  }
